@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: fb24940d59e40604298182c2d05e593f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3078742950570323334
+    second: "SpriteSheet movimenta\xE7\xE3o_0"
+  - first:
+      213: 1695742112692093380
+    second: "SpriteSheet movimenta\xE7\xE3o_1"
+  - first:
+      213: 1547612158157195695
+    second: "SpriteSheet movimenta\xE7\xE3o_2"
+  - first:
+      213: -7215336469558156398
+    second: "SpriteSheet movimenta\xE7\xE3o_3"
+  - first:
+      213: -8144350903127054025
+    second: "SpriteSheet movimenta\xE7\xE3o_4"
+  - first:
+      213: 8080626896988020392
+    second: "SpriteSheet movimenta\xE7\xE3o_5"
+  - first:
+      213: 5734829150675286459
+    second: "SpriteSheet movimenta\xE7\xE3o_6"
+  - first:
+      213: -8635198777510853300
+    second: "SpriteSheet movimenta\xE7\xE3o_7"
+  - first:
+      213: 4017378423481306879
+    second: "SpriteSheet movimenta\xE7\xE3o_8"
+  - first:
+      213: 8391389055704558959
+    second: "SpriteSheet movimenta\xE7\xE3o_9"
+  - first:
+      213: 4318092978176226028
+    second: "SpriteSheet movimenta\xE7\xE3o_10"
+  - first:
+      213: 122680699683432744
+    second: "SpriteSheet movimenta\xE7\xE3o_11"
+  - first:
+      213: -6460791672904109887
+    second: "SpriteSheet movimenta\xE7\xE3o_12"
+  - first:
+      213: 6902086824082843002
+    second: "SpriteSheet movimenta\xE7\xE3o_13"
+  - first:
+      213: -2444173134834740309
+    second: "SpriteSheet movimenta\xE7\xE3o_14"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72948c299b1645d0800000000000000
+      internalID: -3078742950570323334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 152
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1cea1977c788710800000000000000
+      internalID: 1695742112692093380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 152
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa90909ee093a7510800000000000000
+      internalID: 1547612158157195695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a01d95b9fddb90800000000000000
+      internalID: -7215336469558156398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 114
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739eaf4110479fe80800000000000000
+      internalID: -8144350903127054025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 114
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae107d8957242070800000000000000
+      internalID: 8080626896988020392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 114
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb93e856ab4369f40800000000000000
+      internalID: 5734829150675286459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45049d867c992880800000000000000
+      internalID: -8635198777510853300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 76
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe0ce3246890c730800000000000000
+      internalID: 4017378423481306879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_9"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 76
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dee5df2e3347470800000000000000
+      internalID: 8391389055704558959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce27d477fa2fceb30800000000000000
+      internalID: 4318092978176226028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_11"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8296d654279d3b100800000000000000
+      internalID: 122680699683432744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_12"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0bfb84438a656a0800000000000000
+      internalID: -6460791672904109887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_13"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 38
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ac5ec56329cf50800000000000000
+      internalID: 6902086824082843002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba35f90db7d841ed0800000000000000
+      internalID: -2444173134834740309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_15"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26e4924e50a1654084955ad39b54fa5
+      internalID: -556008241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_16"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057234093b227f4418086609894174bc
+      internalID: -1185660650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet movimenta\xE7\xE3o_17"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f558ee4136d7c41b28ed7bccb9873d
+      internalID: -1784144648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80c266408d868fc48aac4ea682e03807
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":28.0,"y":38.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "SpriteSheet movimenta\xE7\xE3o_0": -3078742950570323334
+      "SpriteSheet movimenta\xE7\xE3o_1": 1695742112692093380
+      "SpriteSheet movimenta\xE7\xE3o_10": 4318092978176226028
+      "SpriteSheet movimenta\xE7\xE3o_11": 122680699683432744
+      "SpriteSheet movimenta\xE7\xE3o_12": -6460791672904109887
+      "SpriteSheet movimenta\xE7\xE3o_13": 6902086824082843002
+      "SpriteSheet movimenta\xE7\xE3o_14": -2444173134834740309
+      "SpriteSheet movimenta\xE7\xE3o_15": -556008241
+      "SpriteSheet movimenta\xE7\xE3o_16": -1185660650
+      "SpriteSheet movimenta\xE7\xE3o_17": -1784144648
+      "SpriteSheet movimenta\xE7\xE3o_2": 1547612158157195695
+      "SpriteSheet movimenta\xE7\xE3o_3": -7215336469558156398
+      "SpriteSheet movimenta\xE7\xE3o_4": -8144350903127054025
+      "SpriteSheet movimenta\xE7\xE3o_5": 8080626896988020392
+      "SpriteSheet movimenta\xE7\xE3o_6": 5734829150675286459
+      "SpriteSheet movimenta\xE7\xE3o_7": -8635198777510853300
+      "SpriteSheet movimenta\xE7\xE3o_8": 4017378423481306879
+      "SpriteSheet movimenta\xE7\xE3o_9": 8391389055704558959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
