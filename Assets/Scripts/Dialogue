@@ -1,0 +1,30 @@
+using UnityEngine;
+
+public class Dialogue : MonoBehaviour
+{
+    public Sprite profile;
+    public string speechText;
+    public string actorName;
+    public float radios;
+
+    public LayerMask playerLayer;
+
+    private DialogueControl dc;
+
+    private void Start()
+    {
+        dc = FindObjetOfType<DialogueControl>();
+    }
+    private void FixedUpdate()
+    {
+        Interact();
+    }
+    public void Interact()
+    {
+        collider2D hit = Physic2D.OverlapCircle(transform.position, radios, playerLayer);
+        if (hit != null)
+        {
+            dc.Speech(profile, speechText, actorName);
+        }
+    }
+}

@@ -1,52 +1,58 @@
 fileFormatVersion: 2
-guid: fb24940d59e40604298182c2d05e593f
+guid: 9abf7e1ee36583444b3643fdb26e13a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3078742950570323334
-    second: "SpriteSheet movimenta\xE7\xE3o_0"
+      213: 1851920905436946183
+    second: SpriteSheetMovimento_0
   - first:
-      213: 1695742112692093380
-    second: "SpriteSheet movimenta\xE7\xE3o_1"
+      213: 7010111837805272602
+    second: SpriteSheetMovimento_1
   - first:
-      213: 1547612158157195695
-    second: "SpriteSheet movimenta\xE7\xE3o_2"
+      213: 6456579507304572724
+    second: SpriteSheetMovimento_2
   - first:
-      213: -7215336469558156398
-    second: "SpriteSheet movimenta\xE7\xE3o_3"
+      213: -4226585457041250932
+    second: SpriteSheetMovimento_3
   - first:
-      213: -8144350903127054025
-    second: "SpriteSheet movimenta\xE7\xE3o_4"
+      213: -5304198089438276967
+    second: SpriteSheetMovimento_4
   - first:
-      213: 8080626896988020392
-    second: "SpriteSheet movimenta\xE7\xE3o_5"
+      213: 5459475931283186062
+    second: SpriteSheetMovimento_5
   - first:
-      213: 5734829150675286459
-    second: "SpriteSheet movimenta\xE7\xE3o_6"
+      213: 7583493950009276824
+    second: SpriteSheetMovimento_6
   - first:
-      213: -8635198777510853300
-    second: "SpriteSheet movimenta\xE7\xE3o_7"
+      213: -8600093047704825515
+    second: SpriteSheetMovimento_7
   - first:
-      213: 4017378423481306879
-    second: "SpriteSheet movimenta\xE7\xE3o_8"
+      213: 8823522676011850140
+    second: SpriteSheetMovimento_8
   - first:
-      213: 8391389055704558959
-    second: "SpriteSheet movimenta\xE7\xE3o_9"
+      213: 220275403755335067
+    second: SpriteSheetMovimento_9
   - first:
-      213: 4318092978176226028
-    second: "SpriteSheet movimenta\xE7\xE3o_10"
+      213: -6866675988650305498
+    second: SpriteSheetMovimento_10
   - first:
-      213: 122680699683432744
-    second: "SpriteSheet movimenta\xE7\xE3o_11"
+      213: 3776108781774008612
+    second: SpriteSheetMovimento_11
   - first:
-      213: -6460791672904109887
-    second: "SpriteSheet movimenta\xE7\xE3o_12"
+      213: 3058963914155462929
+    second: SpriteSheetMovimento_12
   - first:
-      213: 6902086824082843002
-    second: "SpriteSheet movimenta\xE7\xE3o_13"
+      213: 5383193447054230881
+    second: SpriteSheetMovimento_13
   - first:
-      213: -2444173134834740309
-    second: "SpriteSheet movimenta\xE7\xE3o_14"
+      213: -6305503903674178173
+    second: SpriteSheetMovimento_14
+  - first:
+      213: 336464643852653254
+    second: SpriteSheetMovimento_15
+  - first:
+      213: -28334327402611121
+    second: SpriteSheetMovimento_16
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -93,7 +99,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 18
+  spritePixelsToUnits: 13
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -155,13 +161,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_0"
+      name: SpriteSheetMovimento_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 152
-        width: 28
-        height: 38
+        y: 69
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a72948c299b1645d0800000000000000
-      internalID: -3078742950570323334
+      spriteID: 70f50b8604853b910800000000000000
+      internalID: 1851920905436946183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_1"
+      name: SpriteSheetMovimento_1
       rect:
         serializedVersion: 2
-        x: 28
-        y: 152
-        width: 28
-        height: 38
+        x: 15
+        y: 69
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c1cea1977c788710800000000000000
-      internalID: 1695742112692093380
+      spriteID: a1ed428439be84160800000000000000
+      internalID: 7010111837805272602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_2"
+      name: SpriteSheetMovimento_2
       rect:
         serializedVersion: 2
-        x: 56
-        y: 152
-        width: 28
-        height: 38
+        x: 30
+        y: 69
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa90909ee093a7510800000000000000
-      internalID: 1547612158157195695
+      spriteID: 437a4fc7ad06a9950800000000000000
+      internalID: 6456579507304572724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_3"
+      name: SpriteSheetMovimento_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 114
-        width: 28
-        height: 38
+        x: 45
+        y: 69
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,86 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 293a01d95b9fddb90800000000000000
-      internalID: -7215336469558156398
+      spriteID: c8569349be62855c0800000000000000
+      internalID: -4226585457041250932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_4"
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 114
-        width: 28
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 739eaf4110479fe80800000000000000
-      internalID: -8144350903127054025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_5"
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 114
-        width: 28
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ae107d8957242070800000000000000
-      internalID: 8080626896988020392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_6"
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 114
-        width: 28
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb93e856ab4369f40800000000000000
-      internalID: 5734829150675286459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_7"
+      name: SpriteSheetMovimento_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 76
-        width: 28
-        height: 38
+        y: 46
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,20 +264,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c45049d867c992880800000000000000
-      internalID: -8635198777510853300
+      spriteID: 992d9b4c0f3b366b0800000000000000
+      internalID: -5304198089438276967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_8"
+      name: SpriteSheetMovimento_5
       rect:
         serializedVersion: 2
-        x: 28
-        y: 76
-        width: 28
-        height: 38
+        x: 15
+        y: 46
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffe0ce3246890c730800000000000000
-      internalID: 4017378423481306879
+      spriteID: e81ede71f64f3cb40800000000000000
+      internalID: 5459475931283186062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_9"
+      name: SpriteSheetMovimento_6
       rect:
         serializedVersion: 2
-        x: 56
-        y: 76
-        width: 28
-        height: 38
+        x: 30
+        y: 46
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +308,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6dee5df2e3347470800000000000000
-      internalID: 8391389055704558959
+      spriteID: 89970a6819bfd3960800000000000000
+      internalID: 7583493950009276824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_10"
+      name: SpriteSheetMovimento_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5515f3830f456a880800000000000000
+      internalID: -8600093047704825515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMovimento_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 46
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c995a43ff13737a70800000000000000
+      internalID: 8823522676011850140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMovimento_9
       rect:
         serializedVersion: 2
         x: 0
-        y: 38
-        width: 28
-        height: 38
+        y: 23
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce27d477fa2fceb30800000000000000
-      internalID: 4318092978176226028
+      spriteID: b9da79900539e0300800000000000000
+      internalID: 220275403755335067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_11"
+      name: SpriteSheetMovimento_10
       rect:
         serializedVersion: 2
-        x: 28
-        y: 38
-        width: 28
-        height: 38
+        x: 15
+        y: 23
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,20 +396,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8296d654279d3b100800000000000000
-      internalID: 122680699683432744
+      spriteID: 6285bccc19aa4b0a0800000000000000
+      internalID: -6866675988650305498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_12"
+      name: SpriteSheetMovimento_11
       rect:
         serializedVersion: 2
-        x: 56
-        y: 38
-        width: 28
-        height: 38
+        x: 30
+        y: 23
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c0bfb84438a656a0800000000000000
-      internalID: -6460791672904109887
+      spriteID: 4217fda2eee676430800000000000000
+      internalID: 3776108781774008612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_13"
+      name: SpriteSheetMovimento_12
       rect:
         serializedVersion: 2
-        x: 84
-        y: 38
-        width: 28
-        height: 38
+        x: 45
+        y: 23
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,20 +440,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a75ac5ec56329cf50800000000000000
-      internalID: 6902086824082843002
+      spriteID: 11199fb097f937a20800000000000000
+      internalID: 3058963914155462929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_14"
+      name: SpriteSheetMovimento_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 23
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165c0e03be1f4ba40800000000000000
+      internalID: 5383193447054230881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMovimento_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 23
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38569ab8b995e78a0800000000000000
+      internalID: -6305503903674178173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMovimento_15
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 28
-        height: 38
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,20 +506,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba35f90db7d841ed0800000000000000
-      internalID: -2444173134834740309
+      spriteID: 6c2d0589fcc5ba400800000000000000
+      internalID: 336464643852653254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_15"
+      name: SpriteSheetMovimento_16
       rect:
         serializedVersion: 2
-        x: 28
+        x: 15
         y: 0
-        width: 28
-        height: 38
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb73054165b9ff0800000000000000
+      internalID: -28334327402611121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMovimento_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,52 +550,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a26e4924e50a1654084955ad39b54fa5
-      internalID: -556008241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_16"
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 0
-        width: 28
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 057234093b227f4418086609894174bc
-      internalID: -1185660650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "SpriteSheet movimenta\xE7\xE3o_17"
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 0
-        width: 28
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19f558ee4136d7c41b28ed7bccb9873d
-      internalID: -1784144648
+      spriteID: 4b5126d917fb72746a023c0965f7a8da
+      internalID: -1972956707
       vertices: []
       indices: 
       edges: []
@@ -554,7 +560,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 80c266408d868fc48aac4ea682e03807
+    spriteID: aaf2e3adaee10e447b8b5dea3cefdd5d
     internalID: 0
     vertices: []
     indices: 
@@ -563,27 +569,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":28.0,"y":38.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":15.0,"y":23.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      "SpriteSheet movimenta\xE7\xE3o_0": -3078742950570323334
-      "SpriteSheet movimenta\xE7\xE3o_1": 1695742112692093380
-      "SpriteSheet movimenta\xE7\xE3o_10": 4318092978176226028
-      "SpriteSheet movimenta\xE7\xE3o_11": 122680699683432744
-      "SpriteSheet movimenta\xE7\xE3o_12": -6460791672904109887
-      "SpriteSheet movimenta\xE7\xE3o_13": 6902086824082843002
-      "SpriteSheet movimenta\xE7\xE3o_14": -2444173134834740309
-      "SpriteSheet movimenta\xE7\xE3o_15": -556008241
-      "SpriteSheet movimenta\xE7\xE3o_16": -1185660650
-      "SpriteSheet movimenta\xE7\xE3o_17": -1784144648
-      "SpriteSheet movimenta\xE7\xE3o_2": 1547612158157195695
-      "SpriteSheet movimenta\xE7\xE3o_3": -7215336469558156398
-      "SpriteSheet movimenta\xE7\xE3o_4": -8144350903127054025
-      "SpriteSheet movimenta\xE7\xE3o_5": 8080626896988020392
-      "SpriteSheet movimenta\xE7\xE3o_6": 5734829150675286459
-      "SpriteSheet movimenta\xE7\xE3o_7": -8635198777510853300
-      "SpriteSheet movimenta\xE7\xE3o_8": 4017378423481306879
-      "SpriteSheet movimenta\xE7\xE3o_9": 8391389055704558959
+      SpriteSheetMovimento_0: 1851920905436946183
+      SpriteSheetMovimento_1: 7010111837805272602
+      SpriteSheetMovimento_10: -6866675988650305498
+      SpriteSheetMovimento_11: 3776108781774008612
+      SpriteSheetMovimento_12: 3058963914155462929
+      SpriteSheetMovimento_13: 5383193447054230881
+      SpriteSheetMovimento_14: -6305503903674178173
+      SpriteSheetMovimento_15: 336464643852653254
+      SpriteSheetMovimento_16: -28334327402611121
+      SpriteSheetMovimento_17: -1972956707
+      SpriteSheetMovimento_2: 6456579507304572724
+      SpriteSheetMovimento_3: -4226585457041250932
+      SpriteSheetMovimento_4: -5304198089438276967
+      SpriteSheetMovimento_5: 5459475931283186062
+      SpriteSheetMovimento_6: 7583493950009276824
+      SpriteSheetMovimento_7: -8600093047704825515
+      SpriteSheetMovimento_8: 8823522676011850140
+      SpriteSheetMovimento_9: 220275403755335067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
