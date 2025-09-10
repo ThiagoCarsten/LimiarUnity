@@ -5,7 +5,7 @@ public class SceneController : MonoBehaviour
 {
     public void ChangeScene(string sceneName)
     {
-        SceneManager.LoadScene(sceneName); // Corrigido: Chamando o método correto
+        SceneManager.LoadScene(sceneName);
     }
 
     void OnTriggerStay2D(Collider2D collision)
