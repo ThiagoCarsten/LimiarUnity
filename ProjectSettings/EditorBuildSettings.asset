@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Brasil.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Menu.unity
+    guid: 4b819d1a57c56274588b0d01145b147d
   - enabled: 1
     path: Assets/Scenes/CasaLis.unity
     guid: 21a23fc50af1aff4096ef669490afa5a
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
-    guid: 4b819d1a57c56274588b0d01145b147d
+    path: Assets/Scenes/Brasil.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

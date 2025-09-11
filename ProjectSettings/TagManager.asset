@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Wall
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -14,8 +15,8 @@ TagManager:
   - Water
   - UI
   - Fundo
-  - 
-  - 
+  - Player
+  - Diario menu
   - 
   - 
   - 
@@ -48,6 +49,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2781942195
+    locked: 0
+  - name: Menu
+    uniqueID: 3210147503
     locked: 0
   m_RenderingLayers:
   - Default

@@ -3,16 +3,25 @@ using UnityEngine.SceneManagement;
 
 public class SceneController : MonoBehaviour
 {
-    public void ChangeScene(string sceneName)
+    void ChangeScene()
     {
-        SceneManager.LoadScene(sceneName);
+        string currentScene = SceneManager.GetActiveScene().name;
+
+        if (currentScene == "Brasil")
+        {
+            SceneManager.LoadScene("CasaLis");
+        }
+        else if (currentScene == "CasaLis")
+        {
+            SceneManager.LoadScene("Brasil");
+        }
     }
 
     void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player") && Input.GetKey(KeyCode.Z))
         {
-            ChangeScene("Brasil");
+            ChangeScene();
         }
     }
 }

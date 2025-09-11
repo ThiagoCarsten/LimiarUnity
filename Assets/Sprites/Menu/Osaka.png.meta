@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Osaka_0: 8371397295384848607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
